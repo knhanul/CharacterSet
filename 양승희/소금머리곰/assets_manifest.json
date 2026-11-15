@@ -1,0 +1,139 @@
+{
+  "source": "소금후추_머리의_곰_캐릭터_세트.png",
+  "original_size_px": [
+    1448,
+    1086
+  ],
+  "files": [
+    {
+      "file": "00_MASTER_얼굴_정면.png",
+      "label": "얼굴 정면 · 공식 마스터",
+      "purpose": "원본 시트의 정면 캐릭터 얼굴. 다른 모든 각도 및 표정을 비교할 기준",
+      "crop_bbox_in_source_pixels": [
+        84,
+        37,
+        340,
+        293
+      ],
+      "width_px": 256,
+      "height_px": 256
+    },
+    {
+      "file": "01_얼굴_45도.png",
+      "label": "얼굴 45도",
+      "purpose": "3/4 각도 장면의 얼굴 참조",
+      "crop_bbox_in_source_pixels": [
+        414,
+        35,
+        658,
+        282
+      ],
+      "width_px": 244,
+      "height_px": 247
+    },
+    {
+      "file": "02_얼굴_측면.png",
+      "label": "얼굴 측면",
+      "purpose": "측면·이동 장면 얼굴 형상 참조",
+      "crop_bbox_in_source_pixels": [
+        1094,
+        37,
+        1346,
+        292
+      ],
+      "width_px": 252,
+      "height_px": 255
+    },
+    {
+      "file": "03_표정_웃음.png",
+      "label": "표정 · 웃음",
+      "purpose": "웃는 표정 참조. 기존 시트에서 그대로 잘라낸 컷",
+      "crop_bbox_in_source_pixels": [
+        19,
+        563,
+        453,
+        1028
+      ],
+      "width_px": 434,
+      "height_px": 465
+    },
+    {
+      "file": "04_표정_생각.png",
+      "label": "표정 · 생각",
+      "purpose": "생각하는 표정 참조. 기존 시트에서 그대로 잘라낸 컷",
+      "crop_bbox_in_source_pixels": [
+        465,
+        563,
+        905,
+        1029
+      ],
+      "width_px": 440,
+      "height_px": 466
+    },
+    {
+      "file": "05_전신_정면.png",
+      "label": "전신 · 정면",
+      "purpose": "신체 비율 참고. 복장은 고정 항목이 아님",
+      "crop_bbox_in_source_pixels": [
+        77,
+        37,
+        347,
+        531
+      ],
+      "width_px": 270,
+      "height_px": 494
+    },
+    {
+      "file": "06_전신_45도_A.png",
+      "label": "전신 · 45도 A",
+      "purpose": "오른쪽을 보는 3/4 각도, 기본 포즈",
+      "crop_bbox_in_source_pixels": [
+        390,
+        37,
+        656,
+        531
+      ],
+      "width_px": 266,
+      "height_px": 494
+    },
+    {
+      "file": "07_전신_45도_B.png",
+      "label": "전신 · 45도 B",
+      "purpose": "오른쪽을 보는 유사한 3/4 각도, 다른 표현",
+      "crop_bbox_in_source_pixels": [
+        671,
+        37,
+        1017,
+        531
+      ],
+      "width_px": 346,
+      "height_px": 494
+    },
+    {
+      "file": "08_전신_측면.png",
+      "label": "전신 · 측면",
+      "purpose": "오른쪽 측면, 신체 형태의 보조 참조",
+      "crop_bbox_in_source_pixels": [
+        1027,
+        35,
+        1364,
+        532
+      ],
+      "width_px": 337,
+      "height_px": 497
+    },
+    {
+      "file": "09_동작_자전거.png",
+      "label": "동작 · 자전거",
+      "purpose": "자전거 탑승 동작 샘플. 자전거는 캐릭터 고정 소품이 아님",
+      "crop_bbox_in_source_pixels": [
+        924,
+        532,
+        1414,
+        1039
+      ],
+      "width_px": 490,
+      "height_px": 507
+    }
+  ]
+}
